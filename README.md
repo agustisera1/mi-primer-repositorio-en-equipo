@@ -2,3 +2,6 @@
 mi-primer-repositorio-en-equipo
 Trabajo en equipo
 Nicolás José Kler
+
+Trabajo colaborativo
+Tisera Agustín
